@@ -482,7 +482,7 @@ body{
 }
  .title{
      text-align:center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     margin-top: 10px;color:var(--main-red)
+     margin-top: 150px;color:var(--main-red)
  }
  .aishow{
      height: 100%;width:50%;border: 1px solid var(--gray-color);
@@ -551,4 +551,13 @@ body{
 }
 #jus{
     width: 100%;
+}
+.foot{
+    margin:10px;color:gray;font-size: 12px;
+}
+#c1{
+    color:rgb(31, 30, 30);
+}
+#c2{
+    color:rgb(221, 190, 13);
 }

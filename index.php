@@ -132,8 +132,11 @@ include 'engine.php';
         </form>
         <!-- end of head -->
         <div id="banabox">
+        <div class="foot">
+         A product of <span id='c1'>O</span> <span id='c2'>Analytics</span>&reg; <?php echo date("Y")?>
+        </div>
 <div class="title">
-   <h3> A new style to coose your hostel...</h3>
+   <h3> A new style to choose your hostel...</h3>
 </div>
 <!-- ANIMATION SECTION -->
 
