@@ -9,12 +9,6 @@
 
 
 
-function sayname()
-{
-      echo "this is a change";
-}
-
-
 function ccc()
 {
     echo '<script>
