@@ -1,0 +1,223 @@
+@media screen and (max-width:1440px){
+   
+}
+@media screen and (max-width:1024px){
+   
+}
+@media screen and (max-width:860px){
+    .note{
+        width: 45%;
+    }
+   
+    .footer{
+       width: 90%;
+   }
+}
+@media screen and (max-width:768px){
+   
+    .aishow{
+        width:100%;
+    }
+    .locate{
+        width: 250px;padding-left: 20px;
+    }
+    #textbox{
+        width:93%;
+    }
+    .ph{
+        width:94%;
+    }
+    .second{
+        width:98%;
+    }
+    .char{
+        width:45%;
+    }
+    .charx{
+        width:95%;
+    }
+     .note{
+         width: 45%;
+     }
+     .footer{
+        width: 90%;
+    }
+    #feedbox{
+        width:96%;
+    }
+    .b1p{
+        border-radius: 10px 0px 0px 0px;width: 100%;
+    }
+    .b1{
+        width: 100%;border-radius: 0px 0px 0px 10px;
+    }
+    .b1r{
+        width: 100%;
+    }
+    #b{
+        margin-left: 40%;
+    }
+    .contain{
+        width:90%;
+    }
+}
+
+@media screen and (max-width:425px){
+    
+    .aishow{
+        width:100%;
+    }
+    .note{
+        width:95%;
+    }
+    .pan1{
+        margin-top: -140px;
+    }
+    .footer{
+        width:95%;
+    }
+    .contain{
+        width:85%;
+    }
+    #b{
+        margin-left: 10%;
+    }
+    .ch{
+        width:90%;
+    }
+    .maininfo{
+        width:97%;
+    }
+    .main_cont{
+        width:100%;
+    }
+    .b1r{
+        width: 94%;
+    }
+    #display{
+        margin-top: 140px;
+    }
+    .second{
+        width:98%;
+    }
+    .char{
+        height:auto;width:100%;
+    }
+    .charx{
+        height:auto;width:100%;
+    }
+    #tab{
+        width:200px;
+    }
+    #tab{
+        width: 100%;
+    }
+    .visualize{
+        transform: scale(0.9);
+    }
+    #dis{
+        height: 20px;margin-top: 10px;
+    }
+   #pe{
+       margin-top:40px;
+   }
+   #textbox{
+       width: 86%;
+   }
+   .imagebox{
+       width:90%;
+   }
+   .close{
+       width:50px;
+   }
+}
+@media screen and (max-width:375px){
+    .footer{
+        width:93%;
+    }
+    .aishow{
+        width:100%;
+    }
+    .note{
+        width:100%;
+    }
+    
+    .contain{
+        width:85%;
+    }
+    #b{
+        margin-left: 10%;
+    }
+    .b1r{
+        width: 93%;
+    }
+    .visualize{
+        transform: scale(0.9);
+    }
+}
+@media screen and (max-width:320px){
+    .visualize{
+        transform: scale(0.9);
+    }
+    #dis{
+        height: 20px;
+    }
+    
+    .note{
+        width:90%;margin-left: 15px;
+    }
+    .aishow{
+        width:100%;
+    }
+   
+    .contain{
+        width:85%;
+    }
+    .char{
+        width:90%;
+    }
+    .second{
+        width:95%;
+    }
+    #lll{
+        height:13vh;
+    }
+    #b{
+        margin-left: 10%;
+    }
+    .b1r{
+        width: 92%;padding-left: 10px;
+    }
+    #b{
+        margin-left: 5%;font-size: 12px;
+    }
+    #tab{
+        height:20vh;width:95%;
+    }
+    .footer{
+        width:98%;margin-left: -15px;
+    }
+    #textbox{
+        width:80%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
