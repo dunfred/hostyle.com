@@ -14,7 +14,7 @@ include 'engine.php';
     <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
 
     <title>Hostyle</title>
-   
+        
     <script src="jquery.js"></script>    
     <script src="rs.speech.js"></script>
     <script src="main.js"></script>

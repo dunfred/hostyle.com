@@ -9,6 +9,7 @@
 
 
 
+
 function ccc()
 {
     echo '<script>
@@ -82,7 +83,7 @@ function pre()
 
 
 
-function calculatedis($val)
+function calculatedis($val) 
 {
         $dv = 0.5;
         $dc = 84;
