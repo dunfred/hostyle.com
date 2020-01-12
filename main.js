@@ -436,6 +436,8 @@ $("#find").keyup(function (e) {
             },
             success:function (response) {
                 $('.finder').html(response)
+                $("#find").val("")
+                $('#feedtxt').val("");
             }
         })
     }

@@ -449,6 +449,7 @@ function ServerScript()
                     background:"green",
                 })
                 $(".msg").html(response)
+               
             }
 
         })

@@ -403,7 +403,7 @@ body{
  .anibox{
     
      width: 200px;height: 200px;
-     margin-top:10px;transition: 0.3s;
+     margin-top:-100px;transition: 0.3s;
      animation: box 0.8s infinite alternate;
      transform:scale(0.5);
  }
@@ -442,10 +442,10 @@ body{
     0%{margin-top: 0px;}
 }
 @keyframes box{
-    50%{margin-top: 150px;}
+    50%{margin-top: 50px;}
 }
 @keyframes box{
-    100%{margin-top: 200px;}
+    100%{margin-top: 10px;}
 }
 
 
@@ -482,7 +482,8 @@ body{
 }
  .title{
      text-align:center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     margin-top: 150px;color:var(--main-red)
+     margin-top: 150px;color:var(--main-red);
+     padding:10px;
  }
  .aishow{
      height: 100%;width:50%;border: 1px solid var(--gray-color);
