@@ -10,6 +10,13 @@
 
 
 
+function Read()
+{
+    // this will read users data
+}
+
+
+
 function ccc()
 {
     echo '<script>
